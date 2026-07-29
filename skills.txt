@@ -1,0 +1,6 @@
+MERN
+Next.js
+TS
+Flutter
+Java
+python
